@@ -3,5 +3,5 @@ This application was created for users to set up a weekly schedule. I updated th
 
 -Travis Woods
 
-![imagelink](images/Work-Day-Scheduler.png)
+![imagelink](./images/Work%20Day%20Planner.png)
 The site is published at https://woodstr3313.github.io/Work-Day-Scheduler/
